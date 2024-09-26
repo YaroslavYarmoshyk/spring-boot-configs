@@ -1,2 +1,2 @@
 system-configuration:
-  color: yellow-2
+  env: dev

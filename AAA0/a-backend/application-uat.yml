@@ -1,2 +1,2 @@
 system-configuration:
-  color: yellow
+  env: uat
